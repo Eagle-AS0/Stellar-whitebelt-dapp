@@ -94,19 +94,12 @@ After connecting, the application automatically fetches and displays your curren
 
 ### Wallet Connected
 
-![Wallet Connected](./ss.png)
-
 ### Balance Displayed
-
-_Add screenshot here_
 
 ### Successful Transaction
 
-_Add screenshot here_
-
 ### Transaction Result
-
-_Add screenshot here_
+![Wallet Connected](./ss.png)
 
 ---
 
