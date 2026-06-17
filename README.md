@@ -1,5 +1,3 @@
-Copy this into your `README.md` and replace the GitHub username/screenshots if needed.
-
 # Stellar White Belt dApp
 
 A simple decentralized application (dApp) built on the Stellar Testnet that allows users to connect their Freighter wallet, view their XLM balance, and send XLM transactions securely. The project demonstrates the core fundamentals of Stellar development including wallet integration, balance retrieval, transaction signing, and transaction submission. Stellar dApps commonly use frontend frameworks such as React together with Stellar wallet connectivity and transaction handling. ([Stellar Developers][1])
