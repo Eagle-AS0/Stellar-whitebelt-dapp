@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+	--bg: #ffffff;
+	--text: #111827;
+}
+
+.dark {
+	--bg: #0b1220;
+	--text: #e6edf3;
+}
+
+body {
+	background: var(--bg);
+	color: var(--text);
+	transition: background 200ms ease, color 200ms ease;
+}
+
+.fade-enter {
+	opacity: 0;
+	transform: translateY(6px);
+}
+.fade-enter-active {
+	opacity: 1;
+	transform: translateY(0);
+	transition: all 220ms ease;
+}
+
+.rounded-shadow {
+	box-shadow: 0 4px 12px rgba(2,6,23,0.08);
+}
