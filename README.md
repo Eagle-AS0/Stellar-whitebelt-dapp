@@ -79,7 +79,7 @@ npm run dev
 The application will be available on:
 
 ```text
-http://localhost:5173
+http://localhost:3000
 ```
 
 ## How to Use
@@ -123,7 +123,7 @@ After connecting, the application automatically fetches and displays your XLM ba
 
 ## Repository
 
-[GitHub Repository](https://github.com/Eagle-AS0/Stellar-whitebelt-dapp?utm_source=chatgpt.com)
+[GitHub Repository](https://github.com/Eagle-AS0/Stellar-whitebelt-dapp)
 
 ## Future Improvements
 
